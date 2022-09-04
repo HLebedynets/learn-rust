@@ -127,6 +127,13 @@ fn first_word(s: &str) -> &str {//it allows to use function on both &String and 
 fn cringe {
     println!("cringe");
 }
-fn new {
+
+fn newcringe {
     
 }
+
+//git checkout -b "new-branch-name"
+//git status to see branch, git checkout to go to branch
+//git add .
+//git commit -m "commit text"
+//git push
