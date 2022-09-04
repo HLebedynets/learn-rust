@@ -123,3 +123,7 @@ fn first_word(s: &str) -> &str {//it allows to use function on both &String and 
 
     &s[..]
 }
+
+fn cringe {
+    println!("cringe");
+}
